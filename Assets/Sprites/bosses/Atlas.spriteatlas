@@ -1,0 +1,178 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 218fa192c38c01243894c7aa6ec22f42, type: 3}
+    - {fileID: 102900000, guid: e76f6017d250f50469c1526b40fe5187, type: 3}
+    - {fileID: 102900000, guid: bbffde0b4daeb1b458f5989595c4928f, type: 3}
+    - {fileID: 102900000, guid: 0d085aad8c6af4645b29e5d14b3a0b55, type: 3}
+    - {fileID: 102900000, guid: 8ce11168c7333144187dc218e6cd0a09, type: 3}
+    - {fileID: 102900000, guid: 364d2d1fa9130b24f828c8a93486c697, type: 3}
+    - {fileID: 102900000, guid: 071603ac5cae00f4c911134b1d05afb9, type: 3}
+    - {fileID: 102900000, guid: 5c6df8fe1e6e2b54ea8a509c03251a2f, type: 3}
+    - {fileID: 102900000, guid: d69edefc6011bfd4484ab393df172e4b, type: 3}
+    - {fileID: 102900000, guid: dccd5d8e90ef9444dab2da6688eb7aef, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 05fd5e40aae0c344aba87854f0d6e1f6, type: 3}
+  - {fileID: 21300000, guid: 4f5c3f40ffca58e409c2fbff8dd2d2fd, type: 3}
+  - {fileID: 21300000, guid: e064a980ea0bd8444bb8cb488d34a13b, type: 3}
+  - {fileID: 21300000, guid: 8ef730c047324b8469c2feef73f7beb4, type: 3}
+  - {fileID: 21300000, guid: 7b6c29f0605623349b7b662158737a3c, type: 3}
+  - {fileID: 21300000, guid: c3655e31096e25d4b89076460ea1cb2c, type: 3}
+  - {fileID: 21300000, guid: 1fbc756120f8f2a40bf514776e475ad6, type: 3}
+  - {fileID: 21300000, guid: 6e3bf9a148555d64a97304faf82a6ac4, type: 3}
+  - {fileID: 21300000, guid: 3685aba1566fc4a4e971138eae44ef9f, type: 3}
+  - {fileID: 21300000, guid: 496859d10164534478732ad4b46b56a4, type: 3}
+  - {fileID: 21300000, guid: 085ac7f172b7d5940a46df17248e3f81, type: 3}
+  - {fileID: 21300000, guid: 8793d542fd173bf44930f0bac92fe861, type: 3}
+  - {fileID: 21300000, guid: 46b59392d2a93b0458c151c0aec368d7, type: 3}
+  - {fileID: 21300000, guid: 518147433f358224797e5b0b72f85e5b, type: 3}
+  - {fileID: 21300000, guid: be2156542696aec4c8e71e676bdab3fe, type: 3}
+  - {fileID: 21300000, guid: 8241bb54516ff974585e68690b2d68e5, type: 3}
+  - {fileID: 21300000, guid: 4d5523b4803225f459a6f87a1411277e, type: 3}
+  - {fileID: 21300000, guid: 3acc83b40a13f8c408fb2fbb26cc574b, type: 3}
+  - {fileID: 21300000, guid: e5c7d4b42d144794da774635068e8da3, type: 3}
+  - {fileID: 21300000, guid: 5d989fd4616ff06439965781064c391d, type: 3}
+  - {fileID: 21300000, guid: 2b68ac7577191514b9109aff9fdc538e, type: 3}
+  - {fileID: 21300000, guid: 13babd852ee65334583fe3709c0ef6f2, type: 3}
+  - {fileID: 21300000, guid: b5e826b5b9f0514478831757d28bbb55, type: 3}
+  - {fileID: 21300000, guid: b07686c59acc70b4399a56ccd1c93e91, type: 3}
+  - {fileID: 21300000, guid: a1a07cc5e12a7734fbddc309293b447a, type: 3}
+  - {fileID: 21300000, guid: ba574526957fa5c4fac2996fe06d7758, type: 3}
+  - {fileID: 21300000, guid: 0a40ad36c6857334ea922a2d637e8fa5, type: 3}
+  - {fileID: 21300000, guid: fdc02f462b79a934bbeeab97c34f7538, type: 3}
+  - {fileID: 21300000, guid: 1fe27866b1366954e9a8e31691d116f9, type: 3}
+  - {fileID: 21300000, guid: 7d026e96663845844af9e884f6125c3b, type: 3}
+  - {fileID: 21300000, guid: e9a02eb6110005c4aac021bea7595256, type: 3}
+  - {fileID: 21300000, guid: 5d0818c65bf7ca84eb1eaa21a8d799cb, type: 3}
+  - {fileID: 21300000, guid: ea7f9be622ce05c4992f319512303635, type: 3}
+  - {fileID: 21300000, guid: c58014179a7f16b4a8f97a267d7da29b, type: 3}
+  - {fileID: 21300000, guid: ffc5b277fccf7f54db5352a56a589c44, type: 3}
+  - {fileID: 21300000, guid: f8aacdb79b44122409d90d20a2388f04, type: 3}
+  - {fileID: 21300000, guid: 65bdf6c790c123e4383a58863a4899b3, type: 3}
+  - {fileID: 21300000, guid: 196524e72a5ccb64e86469148014e77d, type: 3}
+  - {fileID: 21300000, guid: e8f3f55875fa5ac47b4339c61d360252, type: 3}
+  - {fileID: 21300000, guid: 3e654fd866e88b846ab18ff8a4777068, type: 3}
+  - {fileID: 21300000, guid: 135dafe834bb392428c767ec49137739, type: 3}
+  - {fileID: 21300000, guid: ee164f29e44a9e444b8a3783f445d442, type: 3}
+  - {fileID: 21300000, guid: daa868792a3fbf44eae7f6080aea0e10, type: 3}
+  - {fileID: 21300000, guid: 461f0aa9bc140794b83d4a4512d1ae3e, type: 3}
+  - {fileID: 21300000, guid: b1e34f2aa2b54d3459057b0d66e7994e, type: 3}
+  - {fileID: 21300000, guid: da4d0fdace3437e43a0a1960cb8a193d, type: 3}
+  - {fileID: 21300000, guid: cbd7ffeaa35143d4a8946524b12a180a, type: 3}
+  - {fileID: 21300000, guid: 3584830b6b0f22245adb7fad080b1c1a, type: 3}
+  - {fileID: 21300000, guid: a3e2832b7abbd514fa613b46fda9ef7b, type: 3}
+  - {fileID: 21300000, guid: 66f9cd4b492205f448f79b1c9bba086b, type: 3}
+  - {fileID: 21300000, guid: 7d0c964cc2c0f164d8501822a365e37f, type: 3}
+  - {fileID: 21300000, guid: e53bcdcceee16924abcf4b8464a5f05b, type: 3}
+  - {fileID: 21300000, guid: 6f466adce7068684fb0ae6a073314a1d, type: 3}
+  - {fileID: 21300000, guid: f8f3198d701cd5240a1819e6efa823da, type: 3}
+  - {fileID: 21300000, guid: d17892bdce1c4e84797211ff2de7d39d, type: 3}
+  - {fileID: 21300000, guid: b1bebcdd04a0474499d2e884eba91316, type: 3}
+  - {fileID: 21300000, guid: dacd47ed9e5799b43862ab7327373190, type: 3}
+  - {fileID: 21300000, guid: 0ad9105eaa5ae1245b973e5d233be675, type: 3}
+  - {fileID: 21300000, guid: 356f906e0d092d4448e232cad85dd050, type: 3}
+  - {fileID: 21300000, guid: b484aa7ef7c9cb94f8470964a8b121cb, type: 3}
+  - {fileID: 21300000, guid: 9655aa7ec05214f419ecc68805126117, type: 3}
+  - {fileID: 21300000, guid: e6e9dd0ffef7cee4c95ce964a6f3d3b5, type: 3}
+  - {fileID: 21300000, guid: 4634ed1fbfd2da3419ae1920baca19b7, type: 3}
+  - {fileID: 21300000, guid: c874af5fb106c6648ba1dc433e43f85a, type: 3}
+  - {fileID: 21300000, guid: 1268decf136af8c449e10c9366ec1f2f, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Bringer-of-Death_Walk_5
+  - cultist_priest_idle_5
+  - cultist_priest_die_5
+  - Bringer-of-Death_Attack_9
+  - Bringer-of-Death_Walk_3
+  - Bringer-of-Death_Attack_6
+  - Bringer-of-Death_Idle_3
+  - Bringer-of-Death_Walk_4
+  - cultist_priest_attack_5
+  - Bringer-of-Death_Idle_1
+  - cultist_priest_die_1
+  - Bringer-of-Death_Walk_1
+  - Bringer-of-Death_Walk_6
+  - Bringer-of-Death_Attack_4
+  - Bringer-of-Death_Walk_8
+  - Bringer-of-Death_Death_6
+  - cultist_priest_walk_5
+  - Bringer-of-Death_Attack_7
+  - cultist_priest_attack_4
+  - Bringer-of-Death_Attack_5
+  - Bringer-of-Death_Death_3
+  - Bringer-of-Death_Attack_8
+  - cultist_priest_walk_6
+  - Bringer-of-Death_Hurt_3
+  - cultist_priest_attack_2
+  - Bringer-of-Death_Death_8
+  - cultist_priest_die_6
+  - cultist_priest_walk_3
+  - cultist_priest_idle_4
+  - Bringer-of-Death_Attack_10
+  - cultist_priest_die_4
+  - cultist_priest_idle_3
+  - Bringer-of-Death_Death_1
+  - cultist_priest_walk_1
+  - Bringer-of-Death_Attack_3
+  - cultist_priest_die_2
+  - Bringer-of-Death_Walk_2
+  - Bringer-of-Death_Hurt_1
+  - Bringer-of-Death_Attack_1
+  - Bringer-of-Death_Idle_5
+  - cultist_priest_walk_2
+  - cultist_priest_die_3
+  - Bringer-of-Death_Death_7
+  - Bringer-of-Death_Idle_6
+  - Bringer-of-Death_Death_4
+  - cultist_priest_attack_1
+  - Bringer-of-Death_Idle_8
+  - cultist_priest_takehit_1
+  - Bringer-of-Death_Death_5
+  - Bringer-of-Death_Death_2
+  - cultist_priest_takehit_4
+  - cultist_priest_takehit_2
+  - cultist_priest_idle_2
+  - Bringer-of-Death_Death_9
+  - Bringer-of-Death_Walk_7
+  - Bringer-of-Death_Idle_7
+  - Bringer-of-Death_Idle_4
+  - Bringer-of-Death_Attack_2
+  - cultist_priest_walk_4
+  - Bringer-of-Death_Idle_2
+  - cultist_priest_idle_1
+  - cultist_priest_takehit_3
+  - cultist_priest_attack_3
+  - Bringer-of-Death_Death_10
+  - Bringer-of-Death_Hurt_2
+  m_Tag: Atlas
+  m_IsVariant: 0
